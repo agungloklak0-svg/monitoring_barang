@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ID_VIDEO_ANDA">
-    <img src="https://img.youtube.com/vi/ID_VIDEO_ANDA/0.jpg" alt="Video Demo" width="500">
+  <a href="https://www.youtube.com/watch?v=psXX-dGSNt0">
+    <img src="https://img.youtube.com/vi/psXX-dGSNt0/0.jpg" alt="Video Monitoring Barang" width="500">
   </a>
 </p>
 
